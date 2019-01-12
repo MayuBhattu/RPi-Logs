@@ -2,4 +2,4 @@
 
 Logs of Fetch.py and Gui.py
 
-Test 6
+Test 7
