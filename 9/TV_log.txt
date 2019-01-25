@@ -608,3 +608,11 @@ Hostel noticeboard urls
 updating Hostel images
 Downloading Hostel images
 Success!
+Script running at- 2019-01-26 01:44:04.910863
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+Success!
