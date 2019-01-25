@@ -170,3 +170,22 @@ Hostel noticeboard urls
 updating Hostel images
 Downloading Hostel images
 Success!
+Script running at- 2019-01-25 20:28:08.936301
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+Success!
+Script running at- 2019-01-25 20:29:06.317903
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+Success!
+python3: can't open file 'fetch.py': [Errno 2] No such file or directory
+python3: can't open file 'fetch.py': [Errno 2] No such file or directory
+python3: can't open file 'fetch.py': [Errno 2] No such file or directory
