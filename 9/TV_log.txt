@@ -200,3 +200,11 @@ python3: can't open file 'fetch.py': [Errno 2] No such file or directory
 python3: can't open file 'fetch.py': [Errno 2] No such file or directory
 python3: can't open file 'fetch.py': [Errno 2] No such file or directory
 python3: can't open file 'fetch.py': [Errno 2] No such file or directory
+Script running at- 2019-01-26 00:53:09.220455
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+Success!
