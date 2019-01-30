@@ -888,3 +888,90 @@ InstiApp urls
 updating InstiApp images
 Downloading InstiApp images
 Success!
+Script running at- 2019-01-29 12:00:06.223365
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Success!
+Script running at- 2019-01-29 18:00:04.354622
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-01-30 00:00:10.128751
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-01-30 06:00:08.283131
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+Success!
