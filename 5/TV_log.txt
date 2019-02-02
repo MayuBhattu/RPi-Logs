@@ -1,0 +1,16 @@
+Script running at- 2019-02-03 01:17:09.114753
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Success!
+Script running at- 2019-02-03 01:18:10.633493
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Success!
