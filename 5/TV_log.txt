@@ -454,3 +454,37 @@ updating InstiApp images
 Downloading InstiApp images
 error!
 Success!
+Script running at- 2019-02-15 12:00:17.525278
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+Success!
+Script running at- 2019-02-15 18:01:08.198569
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+Success!
+Script running at- 2019-02-16 00:00:05.242432
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Success!
+Script running at- 2019-02-16 06:00:09.563275
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Success!
