@@ -520,3 +520,35 @@ InstiApp urls
 updating InstiApp images
 Downloading InstiApp images
 Success!
+Script running at- 2019-02-17 12:00:10.302173
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Success!
+Script running at- 2019-02-17 18:00:04.928752
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Success!
+Script running at- 2019-02-18 00:00:24.629075
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Success!
+Script running at- 2019-02-18 06:00:50.824661
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Success!
