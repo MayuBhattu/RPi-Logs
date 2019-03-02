@@ -1067,3 +1067,54 @@ error!
 error!
 error!
 Success!
+Script running at- 2019-03-01 12:00:07.697358
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Image Downloaded
+error!
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-03-01 18:00:07.160695
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-03-02 00:00:05.720825
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-03-02 06:00:06.466903
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+Success!
