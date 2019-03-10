@@ -177,3 +177,211 @@ Traceback (most recent call last):
   File "/usr/lib/python3.5/json/decoder.py", line 357, in raw_decode
     raise JSONDecodeError("Expecting value", s, err.value) from None
 json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "fetch.py", line 179, in <module>
+    data = fetch_data()
+  File "fetch.py", line 37, in fetch_data
+    data = json.loads(response.read().decode('utf-8'))
+  File "/usr/lib/python3.5/json/__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.5/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.5/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "fetch.py", line 179, in <module>
+    data = fetch_data()
+  File "fetch.py", line 37, in fetch_data
+    data = json.loads(response.read().decode('utf-8'))
+  File "/usr/lib/python3.5/json/__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.5/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.5/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Script running at- 2019-03-10 08:00:19.666403
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Image Downloaded
+error!
+error!
+error!
+error!
+Image Downloaded
+Success!
+Script running at- 2019-03-10 10:00:10.015114
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+Image Downloaded
+error!
+Image Downloaded
+error!
+error!
+error!
+error!
+error!
+Image Downloaded
+error!
+Image Downloaded
+error!
+Image Downloaded
+error!
+Image Downloaded
+error!
+Image Downloaded
+Image Downloaded
+Image Downloaded
+Success!
+Script running at- 2019-03-10 12:00:16.386075
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-03-10 14:00:12.051003
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-03-10 16:00:18.056125
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-03-10 18:00:19.332737
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-03-10 20:00:47.838473
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-03-10 22:00:16.657859
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-03-11 00:00:09.955063
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+Success!
+Script running at- 2019-03-11 02:00:09.100494
+Hostel noticeboard urls
+updating Hostel images
+Downloading Hostel images
+InstiApp urls
+updating InstiApp images
+Downloading InstiApp images
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+error!
+Success!
